@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Levels/04-Audio.unity
-    guid: 0a029cd5d1f5f79408932b2cc2f72f26
+    path: Assets/Scenes/Levels/02-Park.unity
+    guid: 349260accd533e24cb4be63df84a194b
   m_configObjects: {}
