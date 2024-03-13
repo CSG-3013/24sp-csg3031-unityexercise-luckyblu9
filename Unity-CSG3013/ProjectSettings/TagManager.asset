@@ -7,6 +7,12 @@ TagManager:
   - CinemachineTarget
   - TrashBag
   - TutorialLight
+  - Item
+  - Hint
+  - Hotdog
+  - Coin
+  - Key
+  - Dollar
   layers:
   - Default
   - TransparentFX
